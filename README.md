@@ -3,6 +3,13 @@
   A CSE student form Daffodil International University. Currently Focusing on
   Front-end Web Development.
 </h3>
+<br>
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=sakib-xrz&label=Profile%20views&color=0e75b6&style=flat"
+    alt="sakib-xrz"
+  />
+</p>
 
 # 💫 About Me:
 🌱 I’m currently learning JavaScript Frameworks<br>💬 Ask me about HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, ReactJS<br>👨‍💻 All of my projects are available at https://github.com/sakib-xrz<br>📫 How to reach me sakibxrz21@gmail.com<br>📄 Know about my experiences https://sakibxrz.netlify.app/
