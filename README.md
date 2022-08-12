@@ -4,12 +4,7 @@
   Front-end Web Development.
 </h3>
 <br>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=sakib-xrz&label=Profile%20views&color=0e75b6&style=flat"
-    alt="sakib-xrz"
-  />
-</p>
+[![](https://visitcount.itsvg.in/api?id=sakib-xrz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 🌱 I’m currently learning JavaScript Frameworks<br>💬 Ask me about HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, ReactJS<br>👨‍💻 All of my projects are available at https://github.com/sakib-xrz<br>📫 How to reach me sakibxrz21@gmail.com<br>📄 Know about my experiences https://sakibxrz.netlify.app/
@@ -28,5 +23,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=sakib-xrz&icon=0&color=0)](https://visitcount.itsvg.in)
