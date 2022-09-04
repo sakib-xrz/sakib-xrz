@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/3MSnnJw/Untitled-1.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Md Sakibul Islam</h1>
 <h3 align="center">
