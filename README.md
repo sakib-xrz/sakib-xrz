@@ -10,7 +10,7 @@
 [![](https://visitcount.itsvg.in/api?id=sakib-xrz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🌱 I’m currently learning JavaScript Frameworks<br>💬 Ask me about HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, ReactJS<br>👨‍💻 All of my projects are available at https://github.com/sakib-xrz<br>📫 How to reach me sakibxrz21@gmail.com<br>📄 Know about my experiences https://sakibxrz.netlify.app/
+🌱 I’m currently learning JavaScript Frameworks<br>💬 Ask me about HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, ReactJS<br>👨‍💻 All of my projects are available at https://github.com/sakib-xrz<br>📫 How to reach me sakibxrz21@gmail.com<br>📄 Know about my experiences https://sakib-developer.netlify.app/
 
 
 ## 🌐 Socials:
