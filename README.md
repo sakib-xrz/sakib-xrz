@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Md Sakibul Islam</h1>
 <h4 align="center">
-  My core skill is based on javaScript and I love to do most of the things with javaScript. I have a strong passion for learning & implementing new web technologies and standards. I’m currently studying Computer Science and Engineering at Daffodil International University.
+  My core skill is based on javaScript and I love to do most of the things with javaScript. I have a strong passion for learning & implementing new web technologies and standards. I’m currently studying Computer Science and Engineering at <br> Daffodil International University.
 </h4>
 <br>
 
