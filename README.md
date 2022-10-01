@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Md Sakibul Islam</h1>
-<h5 align="center">
+<h4 align="center">
   My core skill is based on javaScript and I love to do most of the things with javaScript. I have a strong passion for learning & implementing new web technologies and standards. I’m currently studying Computer Science and Engineering at Daffodil International University.
-</h5>
+</h4>
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=sakib-xrz&icon=0&color=0)](https://visitcount.itsvg.in)
