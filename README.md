@@ -1,8 +1,7 @@
 <p align="center" ><img alt="" src="https://i.ibb.co/6v4Gt9z/Untitled-design.png" width="auto" height="auto" /></p>
 <h1 align="center">Hi 👋, I'm Md Sakibul Islam</h1>
 <h5 align="center">
-I'm a frontend-based full-stack developer from Bangladesh. I love web development because I can showcase my creativity in this work. I want to see myself as a skilled web developer with my hard work. I want to work with someone who can help me develop both my professional and personal abilities. Currently, I'm studying Computer Science and Engineering at </br>
-Daffodil International University.
+I'm a frontend-based full-stack developer from Bangladesh. I love web development because I can showcase my creativity in this work. I want to see myself as a skilled web developer with my hard work. I want to work with someone who can help me develop both my professional and personal abilities. Currently, I'm studying Computer Science and Engineering at Daffodil International University.
 </h5>
 <br>
 
