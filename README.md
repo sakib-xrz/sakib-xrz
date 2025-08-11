@@ -1,6 +1,6 @@
 <h1 align="center">
   I'M MD SAKIBUL ISLAM </br>
-  <strong align="center"> <a align="center" href="https://sakib-dev.vercel.app/" target="_blank" target="_blank" rel="noopener noreferrer">Portfolio</a></strong> || <strong align="center"> <a  align="left" href="https://drive.google.com/file/d/1GHKH2A1no_u9DWbmSUcR135uQWdGHAtY/view?usp=share_link" target="_blank" target="_blank" rel="noopener noreferrer" >Resume</a></strong>
+  <strong align="center"> <a align="center" href="https://sakib-dev.xyz/" target="_blank" target="_blank" rel="noopener noreferrer">Portfolio</a></strong> || <strong align="center"> <a  align="left" href="https://drive.google.com/file/d/1GHKH2A1no_u9DWbmSUcR135uQWdGHAtY/view?usp=share_link" target="_blank" target="_blank" rel="noopener noreferrer" >Resume</a></strong>
 </h1>
 
 <h5 align="center">
@@ -11,7 +11,7 @@ I'm a frontend-based full-stack developer from Bangladesh. I love web developmen
 [![](https://visitcount.itsvg.in/api?id=sakib-xrz&icon=5&color=12)](https://visitcount.itsvg.in)
 ![focus](https://img.shields.io/badge/focus-MERN%20Stack-brightgreen)
 ![living](https://img.shields.io/badge/living-Dhaka-blue)
-![age](https://img.shields.io/badge/Age-24-blueviolet)
+![age](https://img.shields.io/badge/Age-27-blueviolet)
 [![Github](https://img.shields.io/github/followers/sakib-xrz?label=Follow&style=social)](https://github.com/sakib-xrz)
 
 <h1> About Me </h1>
