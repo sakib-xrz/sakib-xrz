@@ -1,4 +1,3 @@
-<p align="center" ><img alt="" src="https://res.cloudinary.com/talent-pro/image/upload/v1726658482/Black_and_White_Simple_Project_Manager_LinkedIn_Banner.jpg" width="auto" height="auto" /></p>
 <h1 align="center">
   I'M MD SAKIBUL ISLAM </br>
   <strong align="center"> <a align="center" href="https://sakib-dev.vercel.app/" target="_blank" target="_blank" rel="noopener noreferrer">Portfolio</a></strong> || <strong align="center"> <a  align="left" href="https://drive.google.com/file/d/1GHKH2A1no_u9DWbmSUcR135uQWdGHAtY/view?usp=share_link" target="_blank" target="_blank" rel="noopener noreferrer" >Resume</a></strong>
