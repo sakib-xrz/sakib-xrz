@@ -201,62 +201,20 @@ const sakib = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<br clear="both"/>
 
 <div align="center">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Career Timeline
-
-```
-                                    🚀 MY JOURNEY
-    ════════════════════════════════════════════════════════════════
-    
-    2025 ─────────────────────────────────────────────────────────►
-         │
-         ├──● Riseup Labs (Dhaka) ─────────── Software Engineer
-         │   └─ Enterprise applications & scalable architectures
-         │
-         └──● StrategyByte (Australia) ────── Mid Level Developer
-             └─ Appointment systems, Stripe, Google Calendar API
-    
-    2024 ─────────────────────────────────────────────────────────►
-         │
-         └──● Flexpoint (USA) ─────────────── Software Developer
-             └─ 40% API optimization, 30% faster page loads
-    
-    2023 ─────────────────────────────────────────────────────────►
-         │
-         ├──● Repliq Limited ──────────────── Software Developer
-         │   └─ B2B medicine management system
-         │
-         └──● AlgoSoft Technologies ───────── React Intern
-             └─ UI library development with Storybook
-    
-    ════════════════════════════════════════════════════════════════
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sakib-xrz&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakib-xrz&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sakib-xrz&theme=algolia&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=sakib-xrz&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-xrz&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <div align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-xrz&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=sakib-xrz&theme=algolia&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
 </div>
 
 <br/>
@@ -265,48 +223,7 @@ const sakib = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakib-xrz&custom_title=Sakibul's%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb&area=true&hide_border=true" width="95%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 Featured Project
-
-<div align="center">
-
-<a href="https://alexrodriguez.com.au/">
-<img src="https://img.shields.io/badge/🔗_Alex_Rodriguez_Appointment_System-Visit_Live_Site-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Live Site"/>
-</a>
-
-<br/><br/>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Project Highlights
-
-- 📅 **Google Calendar API** - Real-time sync
-- 💳 **Stripe Integration** - Secure payments
-- 🔔 **Automated Notifications** - Email alerts
-- 🛡️ **Conflict Detection** - Smart scheduling
-- ⚡ **Full-Stack Architecture** - Modern tech
-
-</td>
-<td width="50%">
-
-### 🛠️ Tech Used
-
-```
-Frontend  → Next.js, TypeScript, Tailwind
-Backend   → Node.js, Express, PostgreSQL
-Payments  → Stripe API
-Calendar  → Google Calendar API
-Deploy    → DigitalOcean, Cloudflare
-```
-
-</td>
-</tr>
-</table>
-
-</div>
+<br />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
