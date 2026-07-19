@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=230&section=header&text=Sakibul%20Islam&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20Building%20Digital%20Experiences&descAlignY=55&descSize=18)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=4%2BYears+of+Crafting+Web+Solutions;PERN+%2F+MERN+Stack+Specialist;Architecting+Scalable+Applications;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=4+Years+of+Crafting+Web+Solutions;PERN+%2F+MERN+Stack+Specialist;Architecting+Scalable+Applications;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" /></a>
 
 <br/>
 
