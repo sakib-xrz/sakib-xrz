@@ -19,7 +19,7 @@ const sakib = {
     pronouns: "he" | "him",
     location: "Dhaka, Bangladesh 🇧🇩",
     currentRole: "Software Engineer @ Riseup Labs",
-    experience: "3+ years",
+    experience: "4 years",
     
     achievements: {
         apiOptimization: "40% load reduction",
